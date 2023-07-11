@@ -1,6 +1,3 @@
-Sure, here is a README text file for your GitHub repository for your data structures and algorithms repository in C++ that you pushed from a book called Introduction to Algorithms:
-
-
 # Data Structures and Algorithms in C++
 
 This repository contains the C++ code for the data structures and algorithms presented in the book *Introduction to Algorithms* by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
